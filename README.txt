@@ -6,3 +6,7 @@ https://medium.com/swlh/how-to-create-your-first-mern-mongodb-express-js-react-j
 
 I've named my project mern-stack-barros-backend, instead of movies-app
 
+To run:
+1.  cd to server folder
+2.  $ node index.js
+
