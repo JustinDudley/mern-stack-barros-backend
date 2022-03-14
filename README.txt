@@ -26,8 +26,25 @@ Body (json):
 }
 
 
----- ---- --- ----- ----- ----- ----- 
----- ---- --- ----- ----- ----- ----- 
 
 "We need to create a connection from our server using the Mongoose library."
 See Explanations Bookmark for how to handle process.env, and the .env file
+
+---- ---- --- ----- ----- ----- ----- 
+---- ---- --- ----- ----- ----- ----- 
+
+Eexists a branch of this project called:
+backend-complete-oxbow
+
+If I never do anything with this project again, this oxbow and main will 
+remain pretty similar
+
+
+---- ---- --- ----- ----- ----- ----- 
+---- ---- --- ----- ----- ----- ----- 
+
+I AM STARTING A NEW PROJECT BASED ON THIS ONE, FOR THE CUBE
+IT IS FILED UNDER CUBE/INTERACT-SENTENCES-DADDY
+I INTEND IT TO BE PART OF A TWO-APP PROJECT:
+  - FRONT-END IS CALLED "INTERACT-WITH-SENTENCES-WEB-APP-ONE"
+  - BACK-END IS CALLED "INTERACT-WITH-SENTENCES-MERN-MONGODB"
