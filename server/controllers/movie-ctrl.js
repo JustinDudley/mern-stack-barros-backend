@@ -33,6 +33,7 @@ createMovie = (req, res) => {
         })
 }
 
+// i believe this async is unnecessary.  There is no await in the method
 updateMovie = async (req, res) => {
     const body = req.body
 
